@@ -48,3 +48,7 @@ go to repo ==> settings ==>webhook==>add webhooks
 Add in webhook from Jenkins
 for example: http://myserver.com:8080/github-webhook/, replace with your server address
 
+6. Swaggerfile:
+In Swagger API Editor tool, File==>Import
+https://raw.githubusercontent.com/dappsunilabs/chain/master/swaggerfile.yml
+
