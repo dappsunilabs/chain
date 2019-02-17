@@ -3,7 +3,7 @@ info:
   description: blockchain
   version: 1.0.0
   title: blockchain
-host: 'brtt.chainapp.live:10000'
+host: 'myhostname:10000'
 basePath: /
 schemes:
   - http
